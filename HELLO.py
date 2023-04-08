@@ -1,2 +1,2 @@
 print("HELLO WORLD")
-print("THIS is second histroy")
+print("THIS is second istroy")
